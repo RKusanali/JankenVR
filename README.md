@@ -1,6 +1,6 @@
 # JankenVR
 
-**Note :** Ce projet doit être construit sous Unity pour la plateforme Android. Assurez-vous de suivre les étapes ci-dessous pour une configuration réussie.
+**Note :** Allez dans la branche Oculus. Ce projet doit être construit sous Unity pour la plateforme Android. Assurez-vous de suivre les étapes ci-dessous pour une configuration réussie.
 
 ## Configuration du Projet
 
